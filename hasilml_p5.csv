@@ -25,7 +25,7 @@ id,sehat
 21778,ya
 23197,ya
 16809,ya
-6825,tidak
+6825,ya
 13700,ya
 24813,ya
 13488,ya
@@ -40,7 +40,7 @@ id,sehat
 8039,ya
 11584,tidak
 3959,tidak
-2964,tidak
+2964,ya
 6083,ya
 15008,ya
 14135,ya
@@ -222,7 +222,7 @@ id,sehat
 13309,ya
 20609,ya
 18306,ya
-4840,ya
+4840,tidak
 9465,tidak
 11622,tidak
 20059,tidak
@@ -234,7 +234,7 @@ id,sehat
 8293,ya
 3974,tidak
 6340,ya
-17332,tidak
+17332,ya
 472,ya
 23157,ya
 1866,tidak
@@ -377,7 +377,7 @@ id,sehat
 4684,ya
 21524,ya
 14610,ya
-21239,tidak
+21239,ya
 13605,ya
 20088,tidak
 307,ya
@@ -550,7 +550,7 @@ id,sehat
 13194,ya
 12937,ya
 4412,ya
-24271,ya
+24271,tidak
 9160,tidak
 24551,ya
 16926,tidak
@@ -594,7 +594,7 @@ id,sehat
 22290,ya
 14213,ya
 9919,tidak
-20710,ya
+20710,tidak
 5429,ya
 18117,ya
 16504,ya
@@ -662,7 +662,7 @@ id,sehat
 3042,ya
 13675,tidak
 4706,ya
-4955,ya
+4955,tidak
 5484,tidak
 3911,tidak
 22347,ya
@@ -718,8 +718,8 @@ id,sehat
 8559,ya
 3221,tidak
 15288,ya
-7422,tidak
-9123,ya
+7422,ya
+9123,tidak
 22763,tidak
 14400,tidak
 9516,tidak
@@ -842,14 +842,14 @@ id,sehat
 24737,ya
 7190,ya
 13407,ya
-19434,tidak
+19434,ya
 5365,tidak
 3504,tidak
 20255,ya
 19949,tidak
 17736,ya
 21695,tidak
-9433,ya
+9433,tidak
 24275,tidak
 9817,ya
 6755,ya
@@ -998,7 +998,7 @@ id,sehat
 8361,ya
 14694,tidak
 21047,ya
-17730,tidak
+17730,ya
 16256,tidak
 2673,ya
 15225,ya
@@ -1063,7 +1063,7 @@ id,sehat
 6273,ya
 9931,tidak
 10014,ya
-12789,tidak
+12789,ya
 8069,ya
 2139,ya
 12579,ya
@@ -1074,7 +1074,7 @@ id,sehat
 4469,ya
 22546,ya
 3998,ya
-9523,tidak
+9523,ya
 9632,tidak
 24893,ya
 17592,ya
@@ -1228,7 +1228,7 @@ id,sehat
 3689,ya
 21669,ya
 24798,tidak
-671,ya
+671,tidak
 3271,ya
 24849,tidak
 23738,tidak
@@ -1283,15 +1283,15 @@ id,sehat
 876,ya
 2984,ya
 6013,ya
-6478,tidak
+6478,ya
 4471,tidak
 816,ya
 18416,ya
 2397,ya
-15564,tidak
+15564,ya
 5187,tidak
 21263,ya
-4248,ya
+4248,tidak
 14169,ya
 19429,tidak
 12647,ya
@@ -1462,7 +1462,7 @@ id,sehat
 19595,ya
 1876,ya
 7916,tidak
-17510,tidak
+17510,ya
 4636,ya
 2718,ya
 2963,ya
@@ -1574,7 +1574,7 @@ id,sehat
 1961,ya
 10220,ya
 9404,ya
-1001,tidak
+1001,ya
 2665,tidak
 17115,ya
 12717,ya
@@ -1675,7 +1675,7 @@ id,sehat
 15114,tidak
 19726,tidak
 11066,ya
-5487,tidak
+5487,ya
 17950,ya
 2541,ya
 4729,ya
@@ -1704,7 +1704,7 @@ id,sehat
 1484,tidak
 301,tidak
 16778,tidak
-8226,ya
+8226,tidak
 2979,tidak
 21000,ya
 6119,ya
@@ -1724,7 +1724,7 @@ id,sehat
 6016,tidak
 5236,ya
 5932,ya
-5879,tidak
+5879,ya
 13070,ya
 94,ya
 458,tidak
@@ -1756,7 +1756,7 @@ id,sehat
 20669,ya
 11448,ya
 2668,ya
-15909,ya
+15909,tidak
 24424,ya
 10991,ya
 17797,ya
@@ -1774,7 +1774,7 @@ id,sehat
 20437,ya
 19453,ya
 3503,tidak
-2335,tidak
+2335,ya
 17982,ya
 9502,ya
 18479,ya
@@ -1808,7 +1808,7 @@ id,sehat
 6569,ya
 3885,ya
 260,ya
-22381,tidak
+22381,ya
 4387,ya
 15504,ya
 21876,ya
@@ -1852,7 +1852,7 @@ id,sehat
 18105,tidak
 2065,tidak
 19729,ya
-6829,ya
+6829,tidak
 15962,ya
 940,ya
 3763,ya
@@ -1870,7 +1870,7 @@ id,sehat
 18747,ya
 5383,ya
 7044,ya
-1554,tidak
+1554,ya
 12001,tidak
 13368,ya
 21202,ya
@@ -1898,7 +1898,7 @@ id,sehat
 5657,tidak
 660,ya
 9354,ya
-19598,tidak
+19598,ya
 3336,ya
 20323,ya
 16807,ya
@@ -1985,7 +1985,7 @@ id,sehat
 17802,ya
 8358,tidak
 16583,ya
-1552,tidak
+1552,ya
 18263,ya
 23431,tidak
 21865,ya
@@ -2134,10 +2134,10 @@ id,sehat
 23730,ya
 17286,ya
 21346,ya
-76,ya
+76,tidak
 18430,ya
 6414,ya
-5702,tidak
+5702,ya
 20660,ya
 22296,ya
 13433,tidak
@@ -2152,7 +2152,7 @@ id,sehat
 2471,tidak
 4294,tidak
 1875,ya
-16151,ya
+16151,tidak
 24101,tidak
 20213,ya
 24370,tidak
@@ -2182,12 +2182,12 @@ id,sehat
 22091,ya
 8127,ya
 1952,ya
-17841,ya
+17841,tidak
 3531,ya
 4923,ya
 15706,ya
 22350,ya
-7542,tidak
+7542,ya
 9659,ya
 5122,tidak
 18713,ya
@@ -2239,7 +2239,7 @@ id,sehat
 18500,ya
 19680,ya
 14345,ya
-13279,tidak
+13279,ya
 6871,ya
 15047,ya
 9762,ya
@@ -2255,7 +2255,7 @@ id,sehat
 5754,tidak
 7250,tidak
 7569,tidak
-21657,ya
+21657,tidak
 14128,ya
 15494,tidak
 5794,ya
@@ -2473,7 +2473,7 @@ id,sehat
 7163,ya
 6376,ya
 7832,ya
-4531,ya
+4531,tidak
 2854,tidak
 20909,ya
 15687,ya
@@ -2552,7 +2552,7 @@ id,sehat
 14631,ya
 8350,tidak
 7009,ya
-19550,tidak
+19550,ya
 20216,ya
 20754,tidak
 23305,ya
@@ -2562,7 +2562,7 @@ id,sehat
 1473,ya
 19902,ya
 12959,tidak
-24482,tidak
+24482,ya
 1083,ya
 15117,tidak
 7337,ya
@@ -2577,7 +2577,7 @@ id,sehat
 6947,ya
 3167,tidak
 547,ya
-6821,ya
+6821,tidak
 19787,tidak
 14556,ya
 16215,ya
@@ -2611,7 +2611,7 @@ id,sehat
 22495,ya
 17806,tidak
 8782,tidak
-14382,tidak
+14382,ya
 16063,ya
 15866,ya
 18279,ya
@@ -2668,7 +2668,7 @@ id,sehat
 6624,ya
 18431,ya
 19968,tidak
-18467,ya
+18467,tidak
 18152,ya
 18578,ya
 12569,ya
@@ -2680,7 +2680,7 @@ id,sehat
 7718,ya
 4601,tidak
 5436,ya
-11211,ya
+11211,tidak
 17896,ya
 153,ya
 20425,ya
@@ -2706,7 +2706,7 @@ id,sehat
 12843,tidak
 14654,ya
 1829,tidak
-13284,tidak
+13284,ya
 24008,ya
 13897,tidak
 20627,ya
@@ -2885,7 +2885,7 @@ id,sehat
 9494,ya
 19345,tidak
 13164,ya
-1195,tidak
+1195,ya
 3427,ya
 17700,tidak
 3568,ya
@@ -2895,7 +2895,7 @@ id,sehat
 11457,ya
 18504,tidak
 9447,ya
-12680,ya
+12680,tidak
 12568,ya
 936,ya
 23550,ya
@@ -2942,14 +2942,14 @@ id,sehat
 15502,tidak
 255,ya
 23023,ya
-2193,tidak
+2193,ya
 12663,ya
 19257,ya
 21405,ya
 17945,tidak
 7782,tidak
 20054,ya
-12379,tidak
+12379,ya
 23492,ya
 18483,ya
 16991,ya
@@ -3158,7 +3158,7 @@ id,sehat
 13430,ya
 21650,ya
 14023,ya
-14836,ya
+14836,tidak
 20658,tidak
 974,ya
 4038,ya
@@ -3209,7 +3209,7 @@ id,sehat
 20150,ya
 10039,ya
 21250,ya
-11460,tidak
+11460,ya
 5097,ya
 1872,ya
 17829,ya
@@ -3231,7 +3231,7 @@ id,sehat
 6887,ya
 19279,tidak
 2621,ya
-18756,ya
+18756,tidak
 14257,tidak
 14962,ya
 20169,tidak
@@ -3273,7 +3273,7 @@ id,sehat
 16941,ya
 14956,ya
 7620,ya
-24018,tidak
+24018,ya
 12410,ya
 8608,ya
 20246,tidak
@@ -3336,7 +3336,7 @@ id,sehat
 10101,ya
 18229,ya
 6280,ya
-11872,tidak
+11872,ya
 4937,ya
 18223,ya
 12644,tidak
@@ -3346,7 +3346,7 @@ id,sehat
 6772,ya
 4749,ya
 10891,tidak
-10023,tidak
+10023,ya
 20635,ya
 4991,ya
 1589,ya
@@ -3419,10 +3419,10 @@ id,sehat
 7858,ya
 24698,ya
 5275,ya
-12969,tidak
-4680,ya
+12969,ya
+4680,tidak
 10540,ya
-8136,ya
+8136,tidak
 11449,tidak
 16524,ya
 22009,ya
@@ -3559,7 +3559,7 @@ id,sehat
 22730,ya
 13748,ya
 17749,tidak
-1422,ya
+1422,tidak
 10735,ya
 5159,tidak
 11053,ya
@@ -3593,7 +3593,7 @@ id,sehat
 13516,ya
 22323,ya
 4496,tidak
-4282,ya
+4282,tidak
 13494,ya
 16033,ya
 20588,ya
@@ -3698,7 +3698,7 @@ id,sehat
 506,ya
 12356,ya
 5644,tidak
-2427,tidak
+2427,ya
 13005,tidak
 17025,ya
 15355,ya
@@ -3717,7 +3717,7 @@ id,sehat
 16763,ya
 12391,ya
 12463,ya
-7794,tidak
+7794,ya
 16408,ya
 4381,tidak
 21604,ya
@@ -3741,7 +3741,7 @@ id,sehat
 15143,tidak
 9953,ya
 23289,tidak
-20674,tidak
+20674,ya
 23131,ya
 1157,ya
 13993,ya
@@ -3759,7 +3759,7 @@ id,sehat
 16502,ya
 21126,ya
 11946,ya
-21049,ya
+21049,tidak
 19825,tidak
 20454,tidak
 7627,ya
@@ -3779,7 +3779,7 @@ id,sehat
 7626,ya
 15989,ya
 17539,ya
-16862,tidak
+16862,ya
 6731,ya
 18219,tidak
 24372,tidak
@@ -3975,11 +3975,11 @@ id,sehat
 12222,tidak
 7363,ya
 7667,ya
-22787,tidak
+22787,ya
 786,tidak
 23435,ya
 10926,tidak
-10713,ya
+10713,tidak
 828,ya
 4190,ya
 24363,ya
@@ -4013,7 +4013,7 @@ id,sehat
 8946,ya
 12662,ya
 572,ya
-21813,tidak
+21813,ya
 12677,ya
 15619,ya
 18731,ya
@@ -4037,7 +4037,7 @@ id,sehat
 9298,ya
 17370,tidak
 10425,ya
-5227,ya
+5227,tidak
 14890,ya
 17119,tidak
 21287,ya
@@ -4087,7 +4087,7 @@ id,sehat
 10136,ya
 20497,ya
 22404,ya
-220,tidak
+220,ya
 13628,ya
 19358,ya
 5862,ya
@@ -4367,7 +4367,7 @@ id,sehat
 7301,ya
 13418,ya
 1329,tidak
-17360,tidak
+17360,ya
 7673,ya
 5276,ya
 11094,tidak
@@ -4404,7 +4404,7 @@ id,sehat
 11693,ya
 19818,ya
 19028,tidak
-976,tidak
+976,ya
 8380,ya
 5568,ya
 17884,ya
@@ -4438,7 +4438,7 @@ id,sehat
 10866,tidak
 1086,tidak
 5309,ya
-12044,tidak
+12044,ya
 20875,ya
 6316,ya
 4826,tidak
@@ -4516,7 +4516,7 @@ id,sehat
 13102,ya
 11350,ya
 19617,ya
-6116,ya
+6116,tidak
 22152,ya
 15406,tidak
 14594,tidak
@@ -4541,7 +4541,7 @@ id,sehat
 1409,ya
 15704,tidak
 12547,tidak
-11768,tidak
+11768,ya
 5870,tidak
 24438,ya
 18284,ya
@@ -4597,8 +4597,8 @@ id,sehat
 977,tidak
 11228,ya
 14507,ya
-15187,tidak
-22506,ya
+15187,ya
+22506,tidak
 24211,tidak
 23938,ya
 21163,ya
@@ -4628,7 +4628,7 @@ id,sehat
 1492,ya
 8280,ya
 19316,ya
-24102,ya
+24102,tidak
 1747,tidak
 12046,ya
 23120,ya
@@ -4646,7 +4646,7 @@ id,sehat
 1749,ya
 6085,ya
 24790,ya
-21501,tidak
+21501,ya
 21176,tidak
 6574,ya
 18913,tidak
@@ -4766,7 +4766,7 @@ id,sehat
 19733,ya
 3026,tidak
 10596,tidak
-11914,tidak
+11914,ya
 18499,ya
 12642,ya
 24210,ya
@@ -4779,14 +4779,14 @@ id,sehat
 14479,tidak
 6528,tidak
 6019,ya
-20912,tidak
+20912,ya
 11016,tidak
 3758,tidak
 9512,ya
 2483,ya
 15424,ya
 11711,ya
-7997,ya
+7997,tidak
 10112,ya
 6212,tidak
 6971,ya
@@ -4856,14 +4856,14 @@ id,sehat
 19631,ya
 10130,ya
 13410,tidak
-443,ya
+443,tidak
 24702,tidak
 625,ya
 18112,tidak
 19195,ya
 13498,ya
 24345,ya
-22915,ya
+22915,tidak
 12283,ya
 9809,ya
 21097,tidak
@@ -4875,11 +4875,11 @@ id,sehat
 708,ya
 17324,ya
 5980,ya
-18878,ya
+18878,tidak
 19068,tidak
 24814,tidak
 16814,ya
-11261,tidak
+11261,ya
 13211,ya
 16368,ya
 8382,tidak
@@ -4887,7 +4887,7 @@ id,sehat
 19599,tidak
 7218,tidak
 6423,ya
-16817,ya
+16817,tidak
 14903,ya
 3648,tidak
 5935,ya
@@ -4909,7 +4909,7 @@ id,sehat
 19996,ya
 23845,ya
 18746,ya
-11464,ya
+11464,tidak
 18590,ya
 7842,ya
 21451,ya
@@ -4985,5 +4985,5 @@ id,sehat
 9040,tidak
 19022,ya
 2981,ya
-15814,tidak
+15814,ya
 19476,ya
