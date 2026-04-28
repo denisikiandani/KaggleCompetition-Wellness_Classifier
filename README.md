@@ -1,2 +1,2 @@
 # UTS-machine_learning
- ini adalah uts machine learning klasifikasi
+ A kaggle competition project implementing several machine learning algorithms
